@@ -7,7 +7,7 @@ This is a fully responsive educational institution website built with Django and
 
 ## 🚀 Live Demo
 
-👉 [Visit the Live Site]([https://yourwebsiteurl.com](https://www.aryavedicacademy.sc.ke/)
+👉 [Visit the Live Site]([https://mywebsiteurl.com](https://www.aryavedicacademy.sc.ke/)
 
 
 ## 🌐 Socials:
