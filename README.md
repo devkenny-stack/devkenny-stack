@@ -1,11 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working as a Backend Developer using Python and the Django Web Framework<br>👯 I’m open to collaborating on full-stack and backend-focused web development projects<br>🤝 I’m actively building my frontend skills within Django-based applications<br>🌱 I’m expanding my knowledge in Django features, REST APIs, and deployment workflows<br>💬 Ask me about Django, Python, SQL, or web application development<br>⚡ Ready to level up your coding journey? 🚀 I’m here to help.🤝,"<br>   Fun fact I'm not a hacker, just a curious tech enthusiast," <br>      "I'm not involved in any malicious activity, just exploring systems," <br>      "My interest is in security, not breaking into systems," <br>      "I'm more of a white hat, not a black hat
 
-# School Website Project
+# WEBSITES PROJECTS
 
-This is a fully responsive educational institution website built with Django and Bootstrap. It includes features like student portals, teaching & learning sections, and more.
+This are fully responsive websites built with DJANGO, PYTHON and Bootstrap. It includes various features.
 
-## 🚀 Live Demo
+## 🚀 WEBSITES READY FOR CLIENTS REVIEW
 
 👉 [Visit the Live Site](https://www.aryavedicacademy.sc.ke/)
 👉 [Visit the Live Site](http://coycosset.pythonanywhere.com/)
