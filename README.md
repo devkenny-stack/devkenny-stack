@@ -8,7 +8,7 @@ This is a fully responsive educational institution website built with Django and
 ## 🚀 Live Demo
 
 👉 [Visit the Live Site](https://www.aryavedicacademy.sc.ke/)
-
+👉 [Visit the Live Site](http://coycosset.pythonanywhere.com/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whoisk3nny) 
