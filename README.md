@@ -3,7 +3,7 @@
 
 # WEBSITES PROJECTS
 
-This are fully responsive websites built with DJANGO, PYTHON and Bootstrap. It includes various features.
+I designed and developed these responsive websites using Django, Python, and Bootstrap, ensuring a seamless user experience and reliable functionality for clients.
 
 ## 🚀 WEBSITES READY FOR CLIENTS REVIEW
 
